@@ -1,2 +1,2 @@
-# tekilinux.github.io
+# Teki Linux
 Project and Documentation Website
